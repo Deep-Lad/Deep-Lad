@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Deep-Lad](https://github.com/Deep-Lad)
 
-- 💬 Ask me about **Flask, Django and MySql**
+- 💬 Ask me about **HTML, CSS, Python, Java, Flask, Django and MySql**
 
 - 📫 How to reach me **deepsanjaylad@gmail.com**
 
